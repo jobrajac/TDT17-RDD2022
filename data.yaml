@@ -1,0 +1,4 @@
+train: ./no-train.txt 
+val: ./no-val.txt  
+nc: 4 # num classes
+names: ['D00', 'D10', 'D20', 'D40']
